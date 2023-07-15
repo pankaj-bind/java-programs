@@ -1,4 +1,4 @@
-public class swaping {
+public class swapingByFunction {
     public static void swapped(int a, int b){
         int temp = a;
         a = b;
